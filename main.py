@@ -21,7 +21,7 @@ from aiogram.types import (
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 from dotenv import load_dotenv
 
-BOT_TOKEN = "8730350349:AAHObYdJjAW6KYJaKcgXek9wvMk4x1NZ6PM"
+BOT_TOKEN = "8730350349:AAHQcXh_ZMlOtcVtgoBQhRKVkqELWU7JlAI"
 
 ADMIN_ID = 8385172584
 
